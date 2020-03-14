@@ -1,0 +1,9 @@
+<br>Vamos realizar algumas personalizações básicas no estilo do sistema.<br>
+<br>No menu <b>Tela de fundo</b> podemos escolher o fundo da nossa área de trabalho. Escolha entre <b>Imagem</b>, <br>
+<b>Cor sólida</b> ou <b>Apresentação de slides</b>. Dependendo da opção selecionada, escolha seus parâmetros logo abaixo.<br>
+<br>No menu <b>Cores</b> podemos selecionar as cores de fundo e de detaque do sistema. Logo abaixo, podemos também escolher onde<br>
+queremos aplicar essas cores de destaque.<br>
+<br>Por fim, no menu <b>Tela de bloqueio</b> personalizamos a tela de bloqueio do sistema. Podemos colocar <b>Destaque do Windows</b>, <br>
+<b>Imagem</b> ou <b>Apresentação de slides</b>. Dependendo da opção selecionada, escolha seus parâmetros logo abaixo.<br>
+Além disso, podemos escolher ícones que poderão notificar na tela de bloqueio.<br>
+<br>Confira no próximo passo um vídeo demostrando essas ações.

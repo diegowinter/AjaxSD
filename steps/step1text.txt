@@ -1,0 +1,20 @@
+<br>Primeiramente, temos que abrir as configurações do Windows. Existem algumas maneiras que você pode fazer isso:<br><br>
+<table>
+<tr>
+<td><b>Maneira 1:</b></td>
+<td>Abra o menu Iniciar e clique na engrenagem que corresponde ao botão de Configurações.<br></td>
+</tr>
+<tr>
+<td><b>Maneira 2:</b></td>
+<td>Abra a Central de Ações, e nos atalhos lá disponíveis clique no botão Todas as Configurações.<br></td>
+</tr>
+<tr>
+<td><b>Maneira 3:</b></td>
+<td>Clique com o botão direito no menu Inciar e clique em Configurações.<br></td>
+</tr>
+<tr>
+<td><b>Maneira 4:</b></td>
+<td>Clique na barra de buscas (ou botão de buscas) e digite 'Configurações' e tecle Enter.<br></td>
+</tr>
+</table>
+<br>Confira no próximo passo um vídeo demostrando essas ações.
