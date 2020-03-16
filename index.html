@@ -19,9 +19,9 @@
 </style>
 
 <div id="title" align="center">
-<button type="button" onclick="loadDoc(0)">< Passo anterior</button>
+<button type="button" onclick="updateStep(0)">< Passo anterior</button>
 <h2>Tutorial: Como personalizar o Windows</h2>
-<button type="button" onclick="loadDoc(1)">Próximo passo ></button>
+<button type="button" onclick="updateStep(1)">Próximo passo ></button>
 </div>
 
 <hr>
@@ -31,25 +31,26 @@
     Neste tutorial interativo, você aprenderá como deixar o Windows 10 do seu jeito. Você pode avançar<br>
     e retroceder os passos usando os botões acima. Acompanhado do texto explicativo, haverão vídeos mostrando<br>
     como desempenhar as ações.</p>
-    <button type="button" onclick="loadDoc(1)">Começar!</button>
+    <button type="button" onclick="updateStep(1)">Começar!</button>
 </div>
 
 <script>
-    var  steps = ["steps/step1text.txt", "steps/step1video.txt",
-        "steps/step2text.txt", "steps/step2video.txt",
-        "steps/step3text.txt", "steps/step3video.txt",
+    var  steps = ["steps/step1text.txt", "steps/step1video.txt", "steps/step2text.txt",
+        "steps/step2video.txt", "steps/step3text.txt", "steps/step3video.txt", "steps/step4final.txt"
     ];
     var stepCount = -1;
 
-    function loadDoc(type) {
+    function updateStep(type) {
         if(type == 1){
-            if(stepCount < 5){
-                stepCount ++;
+            if(stepCount < 6){
+                stepCount++;
             }
         } else if(type == 0){
             if(stepCount != 0){
-                stepCount --;
+                stepCount--;
             }
+        } else if (type == -1){
+            stepCount=0;
         }
         var xhttp = new XMLHttpRequest();
         xhttp.onreadystatechange = function() {
